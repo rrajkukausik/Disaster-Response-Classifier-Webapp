@@ -1,6 +1,14 @@
-# Disaster Response Pipeline Project
+# Udacity Data Scientist Nanodegree Project 2
 
-### Instructions:
+## Project Name - Disaster Response Pipeline Webapp
+
+## Building an WebApp to classify Disaster Response 
+
+### Data
+In this project, I have applied my skills to analyze disaster data from **Figure Eight** to build a model for an API that classifies disaster messages.
+Link for data - https://appen.com/
+
+### Instructions to Run the Webapp:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -12,3 +20,4 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
