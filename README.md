@@ -8,6 +8,10 @@
 In this project, I have applied my skills to analyze disaster data from **Figure Eight** to build a model for an API that classifies disaster messages.
 Link for data - https://appen.com/
 
+This WebApp can solve real world usecase such as helping us classifying data for disaster response.
+
+The disaster response management team can easily get that the message wants to convey , and thus can take steps regarding it to solve the problem.
+
 ### Instructions to Run the Webapp:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -20,4 +24,6 @@ Link for data - https://appen.com/
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
 
